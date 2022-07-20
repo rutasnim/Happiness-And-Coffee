@@ -42,3 +42,5 @@ Happiness data saved for each year, 2014-2019 manually extracted from the World 
 https://public.tableau.com/views/WorldCoffeeConsumption_16583487329070/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
 
 ## Data analyis:
+
+https://rubiyatasnim.pro/Coffee-and-Happiness-2e87704541304bfbba03076be1848d78
