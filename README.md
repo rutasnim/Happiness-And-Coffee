@@ -44,3 +44,7 @@ https://public.tableau.com/views/WorldCoffeeConsumption_16583487329070/Dashboard
 ## Data analyis:
 
 https://rubiyatasnim.pro/Coffee-and-Happiness-2e87704541304bfbba03076be1848d78
+
+## Coffee consumption Correlation with Happiness score:
+
+![download](https://user-images.githubusercontent.com/89811897/180372638-b8214524-a0a2-49e3-9eb4-c0e7a795343d.png)
